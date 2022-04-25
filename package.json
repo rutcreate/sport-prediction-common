@@ -1,5 +1,5 @@
 {
-  "name": "@rutcreate/sport-prediction-common",
+  "name": "@sport-prediction/common",
   "version": "1.0.0",
   "description": "",
   "main": "./build/index.js",
@@ -14,7 +14,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "IS2C",
   "devDependencies": {
     "del-cli": "^4.0.1",
     "typescript": "^4.6.3"
